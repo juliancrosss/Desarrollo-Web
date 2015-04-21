@@ -1,0 +1,20 @@
+/*Selector Universal
+DRY: Don't repeat yourself*/
+/*
+*{
+	color:red;
+}*/
+h2{
+	font-family: Arial, Helvetica, sans-serif;
+	color: maroon;
+}
+
+#logo{
+
+}
+
+.articulos{
+	font-size: 20px;
+	color: blue;
+
+}
